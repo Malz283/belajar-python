@@ -12,4 +12,4 @@ def tebak(x):
 
     print(f'Wow, selamat. angka {angka_acak} adalah tebakan tepat!')
 
-tebak(500)
+tebak(1500)
